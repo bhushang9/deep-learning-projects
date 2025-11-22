@@ -8,7 +8,7 @@ The project includes preprocessing, model training, evaluation, saving the model
 ## 📌 Project Overview
 
 This project trains a **Convolutional Neural Network (CNN)** on the MNIST dataset.  
-After training, the model is able to recognize handwritten digits with high accuracy and predict digits from sample images.
+After training, the model is able to recognize handwritten digits with high accuracy(99%) and predict digits from sample images.
 
 ---
 
