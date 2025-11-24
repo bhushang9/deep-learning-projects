@@ -1,4 +1,4 @@
-# 🎨 Image Colorization Using Autoencoder
+# 🎨 Image Colorization Using - Autoencoder
 
 This project takes black-and-white images and automatically adds color to them using a deep learning model.
 It uses the CIFAR-10 dataset and trains an autoencoder to learn how to convert grayscale images into color versions.
